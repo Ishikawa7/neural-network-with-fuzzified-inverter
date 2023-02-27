@@ -5,3 +5,5 @@
 /Old_test
 /Original_c_code
 *.c
+Old_test
+.gitignore
